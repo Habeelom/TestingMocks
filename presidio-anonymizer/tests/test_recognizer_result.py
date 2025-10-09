@@ -296,11 +296,11 @@ def test_logger(mock_logger):
     
     mock_logger.info.assert_called()
     
-    call_args = mock_logger.info.call_args[0][0]
-    assert entity_type in call_args
-    assert str(start) in call_args
-    assert str(end) in call_args
-    assert f"{score:.2f}" in call_args
+    log_call_args = mock_logger.info.call_args[0][0]
+    assert entity_type in log_call_args
+    assert str(start) in log_call_args
+    assert str(end) in log_call_args
+    assert f"{score:.2f}" in log_call_args
 
 def create_recognizer_result(entity_type: str, score: float, start: int, end: int):
     data = {"entity_type": entity_type, "score": score, "start": start, "end": end}
