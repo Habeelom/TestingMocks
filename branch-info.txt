@@ -24,11 +24,11 @@ Branches in this repo (with details):
     008f945 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T17:00:06Z | Auto-update branch-info.txt
     b16fe35 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T16:59:29Z | Auto-update branch-info.txt
 - main
-  SHA: d6315bc5e51b3076cd1395503cefcbdffce32fb9
-  Commits: 7
+  SHA: 8aa244ffce816398e3ac45d61e2e1c3913f5c391
+  Commits: 10
   Recent commits:
+    8aa244f | Author: Omar H <72640183+Habeelom@users.noreply.github.com> | Committer: Omar H <72640183+Habeelom@users.noreply.github.com> | Date: 2025-10-09T17:50:26Z | Merge branch 'main' of github.com:Habeelom/TestingMocks fixing issue
+    bf1c5e2 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T17:45:35Z | Auto-update branch-info.txt
+    a60f22a | Author: Omar H <72640183+Habeelom@users.noreply.github.com> | Committer: Omar H <72640183+Habeelom@users.noreply.github.com> | Date: 2025-10-09T17:45:22Z | updated test recognizer
     d6315bc | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T17:36:56Z | Auto-update branch-info.txt
     cac63d2 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T17:33:29Z | Auto-update branch-info.txt
-    7bebbc3 | Author: Omar H <72640183+Habeelom@users.noreply.github.com> | Committer: Omar H <72640183+Habeelom@users.noreply.github.com> | Date: 2025-10-09T17:32:26Z | first attempt, all code updated
-    53965ab | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T17:00:21Z | Auto-update branch-info.txt
-    008f945 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T17:00:06Z | Auto-update branch-info.txt
