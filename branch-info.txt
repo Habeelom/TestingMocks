@@ -14,10 +14,21 @@ Branches in this repo (with details):
     15b566e | Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-09T16:59:54Z | Bump actions/checkout from 3 to 5
     b16fe35 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T16:59:29Z | Auto-update branch-info.txt
     227962f | Author: Omar H <72640183+Habeelom@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-09T12:59:19-04:00 | Initial commit
-- main
-  SHA: 008f94520852e5272a522840dbffa994f2a1cddb
-  Commits: 3
+- lab7
+  SHA: a60f22ad6c5b3a62c0e2532ef83db70ed621df76
+  Commits: 6
   Recent commits:
+    a60f22a | Author: Omar H <72640183+Habeelom@users.noreply.github.com> | Committer: Omar H <72640183+Habeelom@users.noreply.github.com> | Date: 2025-10-09T17:45:22Z | updated test recognizer
+    7bebbc3 | Author: Omar H <72640183+Habeelom@users.noreply.github.com> | Committer: Omar H <72640183+Habeelom@users.noreply.github.com> | Date: 2025-10-09T17:32:26Z | first attempt, all code updated
+    53965ab | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T17:00:21Z | Auto-update branch-info.txt
     008f945 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T17:00:06Z | Auto-update branch-info.txt
     b16fe35 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T16:59:29Z | Auto-update branch-info.txt
-    227962f | Author: Omar H <72640183+Habeelom@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-09T12:59:19-04:00 | Initial commit
+- main
+  SHA: d6315bc5e51b3076cd1395503cefcbdffce32fb9
+  Commits: 7
+  Recent commits:
+    d6315bc | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T17:36:56Z | Auto-update branch-info.txt
+    cac63d2 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T17:33:29Z | Auto-update branch-info.txt
+    7bebbc3 | Author: Omar H <72640183+Habeelom@users.noreply.github.com> | Committer: Omar H <72640183+Habeelom@users.noreply.github.com> | Date: 2025-10-09T17:32:26Z | first attempt, all code updated
+    53965ab | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T17:00:21Z | Auto-update branch-info.txt
+    008f945 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T17:00:06Z | Auto-update branch-info.txt
